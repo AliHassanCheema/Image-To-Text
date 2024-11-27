@@ -1,16 +1,26 @@
-# image_text
+# Image to Text App 📄✨  
 
-A new Flutter project.
+Effortlessly extract text from images with our Text Extractor app! Whether you’re working with a photo from your camera or an image from your gallery, this app makes it simple to recognize and copy text in seconds.  
 
-## Getting Started
+## Features 🚀  
+- **Extract Text from Images**: Upload an image or take a photo to extract text instantly.  
+- **Camera and Gallery Support**: Capture images using your camera or pick from your gallery.  
+- **Copy to Clipboard**: Easily copy the extracted text for further use.  
+- **Intuitive Design**: Clean, modern, and user-friendly interface.  
 
-This project is a starting point for a Flutter application.
+## How It Works 🛠️  
+1. Select an image from your gallery or use your camera to capture one.  
+2. Wait for the text extraction process to complete.  
+3. View the extracted text and copy it to your clipboard with a single tap.  
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used 🧩  
+- **Flutter**: For building the user interface.  
+- **Google ML Kit**: For text recognition from images.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Get Started 🔧  
+Clone this repository and follow the steps to build the app:  
+```bash  
+git clone https://github.com/AliHassanCheema/Image-To-Text 
+flutter pub get  
+flutter run  
